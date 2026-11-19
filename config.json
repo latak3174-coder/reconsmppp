@@ -1,9 +1,9 @@
 {
   "serverName": "Fill server name here",
-  "serverIp": "example.com",
-  "bedrockPort": 19132,
-  "bedrockPlayersCanJoin": true, 
-  "discordLink": "https://discord.gg/S763GafZPR",
+  "serverIp": "apex.voidcloud.bond:25511",
+  "bedrockPort": SOON,
+  "bedrockPlayersCanJoin": false, 
+  "discordLink": "https://discord.gg/mvxW6ePbUy",
   "logoPath": "logo.jpg",
   "defaultColour": "red",
   "_defaultColourHelp": "Choose red, blue, yellow, purple, white, pink, or orange."
