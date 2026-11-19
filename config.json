@@ -1,7 +1,7 @@
 {
   "serverName": "Fill server name here",
   "serverIp": "apex.voidcloud.bond:25511",
-  "bedrockPort": NA,
+  "bedrockPort": 25511,
   "bedrockPlayersCanJoin": false, 
   "discordLink": "https://discord.gg/mvxW6ePbUy",
   "logoPath": "1794632554961.png",
